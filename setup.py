@@ -9,7 +9,7 @@ install_requires = [
 ]
 
 setup(name='audiotrans-transform-istft',
-      version='0.1.0.dev1',
+      version='0.1.0.dev2',
       description="""audiotrans transform module to Inverse Short-Time Fourier Transformation (ISTFT)""",  # NOQA
       author='keik',
       author_email='k4t0.kei@gmail.com',
