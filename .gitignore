@@ -1,0 +1,6 @@
+dist
+.coverage
+*.pyc
+.cache
+__pycache__
+*.egg-info
